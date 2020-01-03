@@ -1,0 +1,15 @@
+Time,Type,Ping,HRV,ID
+3,Heart,0,3428,7
+5,Heart,0,2368,7
+6,Heart,0,704,7
+6,Heart,0,536,7
+8,Heart,0,1984,7
+9,Heart,0,284,7
+9,Heart,0,280,7
+10,Heart,0,1472,7
+11,Heart,0,308,7
+12,Heart,0,1440,7
+15,Heart,0,3132,7
+20,Heart,0,4508,7
+85,Heart,200,65535,7
+151,Heart,500,65535,7
